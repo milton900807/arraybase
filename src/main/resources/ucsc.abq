@@ -1,0 +1,11 @@
+#the name of the query
+name=gwas_test
+url=jdbc:mysql://genome-mysql.cse.ucsc.edu/hg19
+user=genomep
+password=password
+export=title, pvalue, trait, platform
+query=select title, pvalue, trait, platform from gwasCatalog
+start=0
+end=200
+driver_class=com.mysql.jdbc.Driver
+~

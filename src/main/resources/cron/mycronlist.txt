@@ -1,0 +1,3 @@
+/isis/search/table.refresh()|nightly
+/isis/search/table2.refresh()|nightly
+/isis/search/table2.refresh()|weekly,Thursday night
